@@ -1,0 +1,20 @@
+# AssignmentOct05
+
+Question 1: What is git init?
+Answer1: It creates a new git repository.
+It is the first command for any new project.
+The unversionized project can be converted into git repository with this command.
+
+Question 2: What is git fork?
+Answer2: It is remote, server-side copy of a repository.
+It is distinct from the original.
+Whereas clone is the local copy of the remote repository.
+
+Question 3:How to pull single file from n number of files in git?
+Answer3: 3-step process
+        1) copy the repository to extract file from and go to the desired branch.
+        2) reduce the repository to the sub-folder which contains the interseting files.
+        3) remove all the files other than the one you want to keep.
+        
+Reference:
+https://gist.github.com/ssp/1663093
